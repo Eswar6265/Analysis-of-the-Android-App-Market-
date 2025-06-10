@@ -3,6 +3,7 @@
 ![topics](https://img.shields.io/badge/Topics%20Covered-Data%20Manipulation%2C%20Data%20Visualization%2C%20Probability%20&%20Statistics%2C%20Importing%20&%20Cleaning%20Data-informational)
 
 **📘 Project Description**
+
 In this project, I explored over 10,000 Android apps and their associated user reviews to understand factors that drive app popularity and user satisfaction. Using TextBlob, I extracted polarity and subjectivity scores from user reviews. I compared paid vs free apps, ratings, and categories to determine sentiment and retention strategies. The dataset was preprocessed and analyzed with the goal of producing actionable insights.
 
 **Data Files:**
@@ -12,6 +13,7 @@ apps.csv: App metadata (category, size, rating, type, price)
 user_reviews.csv: Pre-processed user reviews with sentiments
 
 **✅ Project Tasks**
+
 Load app and review data
 
 Clean missing values and filter invalid entries
