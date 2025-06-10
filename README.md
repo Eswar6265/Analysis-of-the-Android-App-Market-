@@ -1,6 +1,5 @@
-![project](https://img.shields.io/badge/Project-Data%20Science-blueviolet)
-![language](https://img.shields.io/badge/Language-Python-success)
-![topics](https://img.shields.io/badge/Topics%20Covered-Data%20Manipulation%2C%20Data%20Visualization%2C%20Probability%20&%20Statistics%2C%20Importing%20&%20Cleaning%20Data-informational)
+📱 **The-App-Market-on-Google-Play**
+Loaded, cleaned, and visualized Play Store data to uncover app category trends and user review sentiment.
 
 **📘 Project Description**
 
