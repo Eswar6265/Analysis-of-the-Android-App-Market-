@@ -11,7 +11,7 @@ apps.csv: App metadata (category, size, rating, type, price)
 
 user_reviews.csv: Pre-processed user reviews with sentiments
 
-****✅ Project Tasks**
+**✅ Project Tasks**
 Load app and review data
 
 Clean missing values and filter invalid entries
@@ -27,7 +27,7 @@ Plot review sentiment vs category using box/violin plots
 Visualize sentiment with word clouds for positives and negatives
 
 Train SVM model to classify sentiment (tuned via GridSearchCV)
-**
+
 Evaluate sentiment prediction with confusion matrix and reports
 ### The Jupyter notebook contains the answer (code) for all of the above tasks:
 
