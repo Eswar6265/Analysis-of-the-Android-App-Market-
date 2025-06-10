@@ -1,9 +1,10 @@
 📱 **The-App-Market-on-Google-Play**
+
 Loaded, cleaned, and visualized Play Store data to uncover app category trends and user review sentiment.
 
 **📘 Project Description**
 
-In this project, I explored over 10,000 Android apps and their associated user reviews to understand factors that drive app popularity and user satisfaction. Using TextBlob, I extracted polarity and subjectivity scores from user reviews. I compared paid vs free apps, ratings, and categories to determine sentiment and retention strategies. The dataset was preprocessed and analyzed with the goal of producing actionable insights.
+In this project, I explored over 10,000 Android apps and their associated user reviews to understand factors that drive app popularity and user satisfaction. Using TextBlob, I extracted polarity and subjectivity scores from user reviews. I compared paid vs free apps, ratings, and categories to determine sentiment and retention strategies. The dataset was preprocessed and analyzed to produce actionable insights.
 
 **Data Files:**
 
